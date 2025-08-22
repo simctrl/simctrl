@@ -1,0 +1,144 @@
+SIMCTRL Privacy Policy
+
+Effective date: August 22, 2025
+Contact: simctrl.app@gmail.com
+
+SIMCTRL is a minimalist console to log your day, surface patterns, and set gentle reminders. This policy explains what we ( “SIMCTRL”, “we”, “our”, “us”) collect, how we use it, and your choices.
+
+If you have questions or want to exercise your rights, email simctrl.app@gmail.com
+.
+
+1) What this policy covers
+
+The SIMCTRL mobile app (Android; iOS if applicable later).
+
+Our backend services running on Google Firebase (Authentication, Firestore, Cloud Functions).
+
+This policy does not cover websites or services we link to (e.g., Buy Me a Coffee).
+
+2) Data we collect
+
+We aim to collect the minimum necessary.
+
+a) Account data
+
+Anonymous account: a randomly generated user ID (no email required).
+
+Email account (optional): your email address if you sign in or link an email to an anonymous account.
+
+b) App content you add
+
+Entries you create inside the app (e.g., logs/notes/keywords), and simple app metrics you see in the UI (e.g., streaks or progress counters).
+
+c) Feedback
+
+When you submit in-app feedback: the message you write plus timestamp; we may attach your user ID and/or email to respond or follow up.
+
+d) Settings & preferences
+
+Theme (light/dark), reminder time and enabled/disabled state, and similar app settings.
+
+e) Device & usage (limited)
+
+Basic device/OS info and non-identifying event data may be processed by Firebase services to keep things reliable and secure (e.g., request routing, service logs).
+
+f) Local notifications
+
+Scheduled reminders are stored and triggered on your device. Reminder times are stored on Firebase.
+
+We do not sell your personal information.
+
+3) How we use data
+
+Provide the service: authenticate users (anonymous or email), store your entries/settings, show your streaks/metrics.
+
+Notifications: schedule daily reminders on your device.
+
+Support & safety: respond to feedback, diagnose problems, protect against abuse.
+
+Improve the app: understand what features are used (aggregate, non-sensitive signals) to guide development.
+
+4) Legal bases (EEA/UK)
+
+Where GDPR applies, we process data based on:
+
+Performance of a contract (to deliver the app’s core features you request).
+
+Legitimate interests (to keep the service secure, measure basic usage).
+
+Consent (where required by your platform settings, e.g., notifications).
+
+Legal obligations (complying with law enforcement or court orders, if applicable).
+
+You can withdraw consent at any time (e.g., disable notifications in the app/OS).
+
+5) Data sharing & service providers
+
+We use trusted providers to run SIMCTRL:
+
+Google Firebase (Authentication, Firestore, Cloud Functions) – account and app data storage/processing.
+
+Google Play – app distribution, crash/installation metadata per Google’s systems.
+
+Flutter Local Notifications – on-device scheduling (no external transmission).
+
+SharedPreferences (on device) – caches your settings locally.
+
+Providers process data on our behalf under their terms. We do not share data with advertisers.
+
+6) International transfers
+
+Firebase may process data in data centers located outside your country (including the United States). We rely on provider safeguards (e.g., standard contractual clauses) where required.
+
+7) Data retention
+
+Account & app content: kept while your account exists.
+
+Feedback messages: kept for as long as needed to respond and improve the app.
+
+Local caches: remain on your device until you clear app data or uninstall.
+
+When you delete your account (from within the app or by emailing us), we delete or de-identify personal data stored in our systems, except where we need to retain some information to meet legal obligations or resolve disputes.
+
+8) Your rights
+
+Depending on your location, you may have rights to:
+
+Access, correct, or delete your data
+
+Port your data
+
+Object to or restrict certain processing
+
+How to exercise:
+Use the in-app Delete Account function or email simctrl.app@gmail.com
+ with your request. We’ll verify identity and respond within applicable timeframes.
+
+If you are in the EEA/UK, you may also complain to your local data protection authority.
+
+9) Children
+
+SIMCTRL is not directed to children under 13 (or the age required by your jurisdiction). If you believe a child provided data, contact us and we’ll promptly delete it.
+
+10) Security
+
+We use reasonable technical and organizational measures (e.g., Firebase security rules, limited access, TLS in transit). No method is 100% secure; we cannot guarantee absolute security.
+
+11) Your choices
+
+Notifications: enable/disable in SIMCTRL or your device settings.
+
+Account type: stay anonymous or link an email (optional).
+
+Delete account/data: use the in-app control or contact us.
+
+Export: request an export of your data by email.
+
+12) Changes to this policy
+
+We may update this policy as the app evolves. We’ll post changes here and update the “Effective date” above. If changes are significant, we will provide a prominent notice in the app.
+
+13) Contact
+
+Questions or requests?
+simctrl.app@gmail.com
